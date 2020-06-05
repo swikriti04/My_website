@@ -313,11 +313,11 @@ li{
     border-left: 4px solid #ffe838;
     border-radius: .8rem;
     background-color: rgba(0, 0, 0, 0.05);
-    margin: 0 auto;
+    margin: 0 auto auto auto;
     position: relative;
     padding: 5rem;
     list-style: none;
-    text-align: letf;
+    text-align: left;
     width: 70%;
 }
 .timeline h1{
